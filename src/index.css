@@ -1,0 +1,10 @@
+@import "tailwindcss";
+@theme {
+  --color-custom-aside: #f2f9ff;
+  --color-blue-text: #068ADC;
+  --color-text: #191F2F;
+  --shadow-button: 0px 3px 3px 0px rgba(0, 0, 0, 0.22);
+}
+button {
+  cursor: pointer;
+}
